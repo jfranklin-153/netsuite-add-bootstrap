@@ -3,7 +3,7 @@
  * @NScriptType ClientScript
  */
 
-define(['N/log', 'N/record'], function(log, record) {
+define(['N/log'], function(log) {
     function pageInit(context) {
             try {
                 // load bootstrap css
